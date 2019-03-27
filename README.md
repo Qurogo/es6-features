@@ -1,7 +1,7 @@
 
 # [es6-features.org](http://es6-features.org/)
 
-#CHINGON
+# CHINGON
 
 ### ECMAScript 6: Feature Overview &amp; Comparison
 
